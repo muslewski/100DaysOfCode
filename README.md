@@ -1,5 +1,6 @@
 # 100DaysOfCode: The Python Adventure for 2023 🚀
 Welcome to my coding journey through the wild world of Python in the 100 Days of Code challenge! 🐍
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## About the Course
 Join me on this epic quest to conquer Python programming over the course of 100 days. This free online course is not for the faint of heart; it's here to transform you into a Python wizard! 🧙‍♂️
