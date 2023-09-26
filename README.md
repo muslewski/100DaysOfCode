@@ -146,4 +146,4 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
 
 ## Contact
-Need a fellow traveler to share your Python tales with? Don't hesitate to reach out to me at mateusz.mus@proton.me. Let's embark on this Python adventure together! 🌟
+Need a fellow traveler to share your Python tales with? Don't hesitate to reach out to me at mateusz.mus@proton.me or on Discord at kento10. Let's embark on this Python adventure together! 🌟
