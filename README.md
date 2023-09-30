@@ -141,6 +141,14 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Basics of Tkinter - Miles Converter 🏃🏻**
 - Description: Learn the art of GUI programming with Tkinter. Convert miles to kilometers with style!
 
+### Day 28
+**Pomodoro App 🍅**
+- Description: Boost your productivity with the Pomodoro Technique! I created a Pomodoro timer app to help you stay focused and manage your work and break intervals effectively.
+
+### Day 29
+**Password Manager 🗝️**
+- Description: Keep your passwords safe and organized with my password manager application. Never worry about forgetting your login details again!
+
 
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
