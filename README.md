@@ -149,6 +149,10 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Password Manager 🗝️**
 - Description: Keep your passwords safe and organized with my password manager application. Never worry about forgetting your login details again!
 
+### Day 30
+**Working with JSON 📂**
+- Description: In today's session, we'll dive into working with JSON data, a common format for storing and exchanging information. We'll also enhance our Password Manager application.
+
 
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
