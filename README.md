@@ -153,6 +153,9 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Working with JSON 📂**
 - Description: In today's session, we'll dive into working with JSON data, a common format for storing and exchanging information. We'll also enhance our Password Manager application.
 
+### Day 31
+**Flashcards app**
+- Description: I successfully developed an engaging flashcard application designed to help you memorize words more effectively.
 
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
