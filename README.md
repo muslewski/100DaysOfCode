@@ -170,6 +170,7 @@ https://github.com/KentoDecem/100DaysOfCode/assets/72524097/33c86044-8b9b-4257-a
 ### Day 34
 **Quiz app with Trivia API**
 - Description: Let's build a Quiz App using a Trivia API.
+
 ![Preview](https://github.com/KentoDecem/100DaysOfCode/blob/main/Day%2034/2023-10-13%2014-24-26.gif)
 
 
