@@ -110,6 +110,7 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 ### Day 21
 **Snake 2 🐉**
 - Description: Continue your snake adventure with more features and challenges. Conquer the Snake realm!
+https://github.com/KentoDecem/100DaysOfCode/assets/72524097/aff11ae3-668a-4f02-8fdc-6445660020d9
 
 
 ### Day 22
@@ -156,12 +157,20 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 ### Day 31
 **Flashcards app**
 - Description: I successfully developed an engaging flashcard application designed to help you memorize words more effectively.
+https://github.com/KentoDecem/100DaysOfCode/assets/72524097/33c86044-8b9b-4257-ab47-e965f62b0197
 
+### Day 32
+**Send birthday mails 🎈**
+- Description: Learn to create a script that automatically sends birthday wishes via email.
 
+### Day 33
+**API Fundamentals**
+- Description: I successfully developed an engaging flashcard application designed to help you memorize words more effectively.
 
-
+### Day 34
+**Quiz app with Trivia API**
+- Description: Let's build a Quiz App using a Trivia API.
 https://github.com/KentoDecem/100DaysOfCode/assets/72524097/8a9e30db-32d3-4837-a1a9-2609d4588592
-
 
 
 ## Contributing
