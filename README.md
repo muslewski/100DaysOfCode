@@ -157,6 +157,13 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Flashcards app**
 - Description: I successfully developed an engaging flashcard application designed to help you memorize words more effectively.
 
+
+
+
+https://github.com/KentoDecem/100DaysOfCode/assets/72524097/8a9e30db-32d3-4837-a1a9-2609d4588592
+
+
+
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
 
