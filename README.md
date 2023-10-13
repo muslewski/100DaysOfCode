@@ -157,7 +157,9 @@ https://github.com/KentoDecem/100DaysOfCode/assets/72524097/aff11ae3-668a-4f02-8
 ### Day 31
 **Flashcards app**
 - Description: I successfully developed an engaging flashcard application designed to help you memorize words more effectively.
-https://github.com/KentoDecem/100DaysOfCode/assets/72524097/33c86044-8b9b-4257-ab47-e965f62b0197
+
+![Preview](https://github.com/KentoDecem/100DaysOfCode/blob/main/Day%2031/2023-10-13%2014-36-11.gif)
+
 
 ### Day 32
 **Send birthday mails 🎈**
