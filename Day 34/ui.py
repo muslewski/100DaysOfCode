@@ -2,6 +2,7 @@ from tkinter import *
 from PIL import Image, ImageTk, ImageSequence
 from quiz_brain import QuizBrain
 
+# Night Blue
 THEME_COLOR = "#375362"
 FONT = ("Arial", 20, "italic")
 
@@ -53,7 +54,7 @@ class QuizInterface:
         else:
             self.canvas.config(bg="#ff9999")
         self.canvas.after(1000, self.get_next_question)
-
+    
     def get_next_question(self):
         self.canvas.config(bg="white")
         if self.quiz.still_has_questions():
