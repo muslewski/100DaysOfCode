@@ -110,7 +110,6 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 ### Day 21
 **Snake 2 🐉**
 - Description: Continue your snake adventure with more features and challenges. Conquer the Snake realm!
-https://github.com/KentoDecem/100DaysOfCode/assets/72524097/aff11ae3-668a-4f02-8fdc-6445660020d9
 
 
 ### Day 22
