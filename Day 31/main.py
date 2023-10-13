@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter.ttk import Progressbar
 
+#library for datas
 import pandas
 import random
 
