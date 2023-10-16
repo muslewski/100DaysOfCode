@@ -4,7 +4,7 @@ import random
 import os
 import time
 
-
+#Welcome
 def welcome():
   #First part
   print(art.logo)
