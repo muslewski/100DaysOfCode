@@ -157,7 +157,7 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Flashcards app**
 - Description: I successfully developed an engaging flashcard application designed to help you memorize words more effectively.
 
-![Preview](https://github.com/KentoDecem/100DaysOfCode/blob/main/Day%2031/2023-10-13%2014-36-11.gif)
+![Preview](https://github.com/muslewski/100DaysOfCode/blob/main/Day%2031/2023-10-13%2014-36-11.gif)
 
 
 ### Day 32
@@ -172,11 +172,63 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Quiz app with Trivia API**
 - Description: Let's build a Quiz App using a Trivia API.
 
-![Preview](https://github.com/KentoDecem/100DaysOfCode/blob/main/Day%2034/2023-10-13%2014-31-31.gif)
+![Preview](https://github.com/muslewski/100DaysOfCode/blob/main/Day%2034/2023-10-13%2014-31-31.gif)
+
+### Day 35
+**Rain Alert via SMS**
+- Description: I work with Twilio and OpenWeather APIs to make working sms alert about rain.
+
+### Day 36
+**Stock Trading News**
+- Description: Alert project with Alpha Vantage and News APIs that will "probably" make you rich.
+
+### Day 37
+**Habit Tracking**
+- Description: I created simple Habit Tracker.
+
+### Day 38
+**Workout Tracker**
+- Description: I learned how to work with Google Sheets api.
+
+### Day 39
+**Flight Deal Finder**
+- Description: Project that will give you information about flight deals.
+
+### Day 40
+**Flight Club**
+- Description: Better version of Flight Deal Finder.
+
+### Day 41 / Section 2
+**Introduction to HTML**
+- Description: I learned the basics such as how to use headings, paragraphs, br and hr.
+
+<img src="https://github.com/muslewski/WebDevelopmentBootcamp/blob/main/Section%202/s2.jpg" alt="Best movies" width="500">
+
+
+### Day 42 / Section 3
+**Intermediate HTML**
+- Description: I understood how to make lists. I know how nesting and indentation work. Now I also know how to insert photos and links on the website.
+
+<img src="https://github.com/muslewski/WebDevelopmentBootcamp/blob/main/Section%203/bd.jpg" alt="Birthday Invite" width="500">
+
+
+### Day 43 / Section 5
+**Introduction to CSS**
+- Description: Now I know ways to introduce css into an html file. I also learned about various CSS Selectors.
+
+<img src="https://github.com/muslewski/WebDevelopmentBootcamp/blob/main/Section%205/5.4%20Color%20Vocab%20Project/spanish_vocabulary.jpg" alt="Spanish Vocabulary" width="500">
+
+
+### Day 44 / Section 6
+**Intermediate CSS / CSS Properties**
+- Description: I understood the principles of css colors and font properties. I used css inspection in the browser. I delved into the basics of the CSS Box Model.
+
+<img src="https://github.com/muslewski/WebDevelopmentBootcamp/blob/main/Section%206/6.4%20Motivation%20Meme%20Project/david_goggins_motivational.jpg" alt="David Goggins Quote" width="500">
+
 
 ### Day 45
 **Web Scraping with Beautiful Soup**
-
+- Description: I learned the basics of web scrapping.
 
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
