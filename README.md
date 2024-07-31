@@ -174,6 +174,9 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 
 ![Preview](https://github.com/KentoDecem/100DaysOfCode/blob/main/Day%2034/2023-10-13%2014-31-31.gif)
 
+### Day 45
+**Web Scraping with Beautiful Soup**
+
 
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
