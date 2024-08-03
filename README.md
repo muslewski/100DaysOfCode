@@ -230,6 +230,10 @@ Prepare to be amazed as I tackle a new project each day. Brace yourself for crea
 **Web Scraping with Beautiful Soup**
 - Description: I learned the basics of web scrapping.
 
+### Day 46
+**Spotify Time Machine - Playlist Generator**
+- Description: I created a script that creates a playlist based on the top 100 songs from a given time.
+
 ## Contributing
 Feeling adventurous? Want to join my Python brigade? I welcome contributions to this repository! If you've got ideas for new projects or have spotted a sneaky bug, open a pull request and become a code warrior alongside me. ⚔️
 
