@@ -1,0 +1,18 @@
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <p>Welcome to the home page.</p>
+    <h2>{{5 * 6}}</h2>
+<h3>Random Number: {{ random_number }}</h3>
+
+    <a href="{{url_for('get_blog', num=4)}}">Go To Blog</a>
+
+
+    <footer>
+<p>&copy; Copyright {{current_year}}. Built by {{name}}</p>
+    </footer>
+</body>
+</html>
